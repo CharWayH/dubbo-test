@@ -1,0 +1,2 @@
+human=com.charwayh.impl.HumanHelloServiceImpl
+dog=com.charwayh.impl.DogHelloServiceImpl
